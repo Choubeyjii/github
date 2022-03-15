@@ -1,0 +1,94 @@
+*{
+     /* background-image: url('/food.jpg');
+     background-attachment: fixed; 
+     background-size: 100%; */
+     background-image: url(https://rs.projects-abroad.net/v1/hero/indian-cuisine-south-africa-food-tours-product-5e146c7a97eb2.[1600].jpeg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     border-image: round;
+     background-size: 1352px 305px;
+     margin: 0;
+     padding: -1px;
+} 
+.dis{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    width: 100%;
+    height: 256px;
+}
+.in{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    width: 70%;
+    text-align: end;
+    margin: 0px 0px;
+    color: white;
+}
+.out{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    width: 16%;
+    text-align: center;
+    margin: 0px 0px;
+}
+.third{
+    background-attachment: fixed;
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    margin: -137px 0px;
+}
+.side{
+    background-color: white;
+    margin: 43px 20px;
+    padding: 0px;
+    display: inline-block;
+    width: 171px;
+}
+.third{
+    margin: 15px 20px;
+}
+.meal{
+    margin: 10px 20px;
+}
+.food{
+    margin: 10px 20px;
+}
+.first{
+    text-align: center;
+    color: white;
+    margin: 50px 0px;
+}
+.sec{
+    text-align: center;
+    color: white;
+    margin: 0px 221px;
+}
+.break {
+    display: inline-block;
+    margin: 0px 0px;
+}
+.lunch{
+    display: inline-block;
+    margin: 0px 155px;
+}
+.dinner{
+    display: inline-block;
+    margin: 0px 0px;
+}
+h3{
+    margin: 0px 0px;
+}
+.item{
+    background-color: white;
+    margin: -300px 286px;
+    width: 990px;
+}
+h2{
+    margin: -16px 0px;
+}
+sup h6{
+    display: inline-block;
+}
